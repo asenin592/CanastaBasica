@@ -19,10 +19,10 @@ implementación y documentación de la base de datos desarrollada a lo largo del
 
 Integrantes del equipo que participaron en el desarrollo del proyecto.
 
-Gaytan González Ángel Alejandro 
-García Hernández Jorge Eduardo 
-González Mercado Francisco Antonio 
-Guzmán Ortega José Emilio 
-Izaguirre Cortes Emanuel 
-Martínez Azuara Juan Francisco 
-Suarez Martínez Maciel Francisco 
+- Gaytan González Ángel Alejandro
+- García Hernández Jorge Eduardo
+- González Mercado Francisco Antonio
+- Guzmán Ortega José Emilio
+- Izaguirre Cortes Emanuel
+- Martínez Azuara Juan Francisco
+- Suarez Martínez Maciel Francisco
